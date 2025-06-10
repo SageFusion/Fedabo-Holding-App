@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "no-unused-vars": "off",
+    "no-console": "off",
+    "no-debugger": "off",
+    "react/prop-types": "off",
+    "react/react-in-jsx-scope": "off",
+    "no-undef": "off",
+    "no-empty": "off",
+    "no-mixed-spaces-and-tabs": "off",
+    "no-unreachable": "off",
+    "no-useless-escape": "off"
+  }
+}
